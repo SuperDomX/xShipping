@@ -1,0 +1,27 @@
+[29-Oct-2014 02:03:48 MST] PHP Warning:  Invalid argument supplied for foreach() in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 230
+[29-Oct-2014 02:04:24 MST] PHP Warning:  Invalid argument supplied for foreach() in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 230
+[29-Oct-2014 02:06:11 MST] PHP Warning:  Invalid argument supplied for foreach() in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 230
+[29-Oct-2014 02:07:52 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:07:52 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:07:52 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:07:52 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:07:52 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:07:52 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:07:52 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:08:25 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:08:25 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:08:25 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:08:25 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:08:25 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:08:25 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:08:25 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:10:15 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:10:15 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:10:15 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:10:15 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:10:15 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:10:15 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:10:15 MST] PHP Warning:  Illegal string offset 'RATE' in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:11:47 MST] PHP Fatal error:  Function name must be a string in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:12:53 MST] PHP Fatal error:  Function name must be a string in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
+[29-Oct-2014 02:14:05 MST] PHP Fatal error:  Function name must be a string in /home/azsports/public_html/dev/shipx/ShippingCalculator.php on line 231
