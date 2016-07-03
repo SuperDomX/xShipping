@@ -1,7 +1,7 @@
 <?php
 /**
  * @author i@xtiv.net
- * @name Parcel Service(s)
+ * @name Shipping 
  * @desc Offer shipping rates on your site.
  * @version v0.0.1
  * @icon truck
