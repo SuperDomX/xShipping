@@ -1,9 +1,9 @@
 <?php
 /**
- * @author i@xtiv.net
  * @name Shipping 
  * @desc Offer shipping rates on your site.
- * @version v0.0.1
+    * @version v0.1(160710)
+    * @author  @xopherdeep
  * @icon truck
  * @mini truck
  * @link shipping
